@@ -1,0 +1,5 @@
+s3:
+  access: ${S3_ACCESS:}
+  secret: ${S3_SECRET:}
+  bucket: ${S3_BUCKET:}
+  region: us-east-1
